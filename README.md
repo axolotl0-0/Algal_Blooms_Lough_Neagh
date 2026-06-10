@@ -1,1 +1,1 @@
-# Algal_Blooms_Lough_Neagh
+# Algal Blooms Lough Neagh
