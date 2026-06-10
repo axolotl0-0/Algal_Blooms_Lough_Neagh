@@ -3,10 +3,10 @@
 ### Geographical Context
 ### Project Motivation
 ### Previous Algal Bloom Events
-## Data
 ## Machine Learning Methodos
 ### K-Means Clustering
 ### IRIS Segmentation
+## Data Used
 ## Results
 ## Explainable AI
 ## Environmental Impact
