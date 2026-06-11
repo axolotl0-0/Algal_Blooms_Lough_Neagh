@@ -2,6 +2,7 @@
 This project aims to use machine learning methods, focusing on K-means clustering to 
 ## Introduction
 ### Geographical Context
+Lough Neagh is situated in 
 ### Project Motivation
 ### Previous Algal Bloom Events
 ## Machine Learning Methodos
@@ -18,4 +19,4 @@ European Space Agency (2023). S1 Products. [online] Copernicus.eu. Available at:
 ## Acknowledgements
 This project was created as part of the final assignment for the module GEOL0069 AI for Earth Observations (AI4EO) at UCL, and incorprates python notebooks created by the module lead Michele Tasamados and teaching assistant Weibin Chen.
 ## Contact
-Email: serenatrantcolab@gmail.com UCL Email: serena.trant.alumni@ucl.ac.uk
+Email: serenatrantcolab@gmail.com UCL Email: serena.trant.23@alumni.ucl.ac.uk
