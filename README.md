@@ -3,8 +3,9 @@ This project aims to use machine learning methods, focusing on K-means clusterin
 ## Introduction
 ### Geographical Context
 Lough Neagh is situated in 
-### Project Motivation
+### Project Motivation (Problem to be tackled)
 ### Previous Algal Bloom Events
+
 ## Machine Learning Methodos
 ### K-Means Clustering
 ### IRIS Segmentation
