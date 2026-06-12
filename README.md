@@ -10,15 +10,18 @@ https://sluggerotoole.com/2026/03/16/the-saga-of-lough-neaghs-deterioration-take
 https://www.niassembly.gov.uk/globalassets/documents/raise/topical-digests/td_lough-neagh_td06.pdf
 https://www.belfasttelegraph.co.uk/news/environment/blue-green-algae-is-back-on-lough-neagh-after-warm-and-wet-weather/a/112203647.html
 https://dataspace.copernicus.eu/gallery/2023-9-4-algae-bloom-lough-neagh
-## Machine Learning Methodos
-### K-Means Clustering
-### IRIS Segmentation
 ## Data Used
+### Sentinel-2 Infographic
+### Indices Calculated
+### IRIS Segmentation
+## Supervised Machine Learning Methodos
+## Unsupervised K-Means Clustering
 ## Results
 ## Explainable AI
 ## Environmental Impact
 ## Conclusion
 ## Video Explanation of Code
+## Infographic of Machine Learning Methods
 ## References
 European Space Agency (2023). S1 Products. [online] Copernicus.eu. Available at: https://sentiwiki.copernicus.eu/web/s1-products.
 ## Acknowledgements
