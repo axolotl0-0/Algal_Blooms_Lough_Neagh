@@ -19,6 +19,7 @@ https://dataspace.copernicus.eu/gallery/2023-9-4-algae-bloom-lough-neagh
 #### Sentinel-2 Infographic
 https://sentinels.copernicus.eu/-/collection-1-level-2a
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7544481/
+https://browser.stac.dataspace.copernicus.eu/collections/sentinel-2-l2a?.language=en
 ### Indices Calculated
 https://www.sciencedirect.com/science/article/pii/S2468312425000082
 https://isprs-archives.copernicus.org/articles/XLVIII-M-6-2025/251/2025/isprs-archives-XLVIII-M-6-2025-251-2025.pdf
