@@ -5,8 +5,11 @@ This project aims to use machine learning methods, focusing on K-means clusterin
 Lough Neagh is situated in 
 https://www.daera-ni.gov.uk/protected-areas/lough-neagh-assi
 ### Project Motivation (Problem to be tackled)
+https://sluggerotoole.com/2026/03/16/the-saga-of-lough-neaghs-deterioration-takes-another-toxic-turn/
 ### Previous Algal Bloom Events
 https://www.niassembly.gov.uk/globalassets/documents/raise/topical-digests/td_lough-neagh_td06.pdf
+https://www.belfasttelegraph.co.uk/news/environment/blue-green-algae-is-back-on-lough-neagh-after-warm-and-wet-weather/a/112203647.html
+https://dataspace.copernicus.eu/gallery/2023-9-4-algae-bloom-lough-neagh
 ## Machine Learning Methodos
 ### K-Means Clustering
 ### IRIS Segmentation
