@@ -3,6 +3,7 @@ This project aims to use machine learning methods, focusing on K-means clusterin
 ## Introduction
 ### Geographical Context
 Lough Neagh is situated in 
+https://www.daera-ni.gov.uk/protected-areas/lough-neagh-assi
 ### Project Motivation (Problem to be tackled)
 ### Previous Algal Bloom Events
 https://www.niassembly.gov.uk/globalassets/documents/raise/topical-digests/td_lough-neagh_td06.pdf
