@@ -14,6 +14,7 @@ https://www.belfasttelegraph.co.uk/news/environment/blue-green-algae-is-back-on-
 https://dataspace.copernicus.eu/gallery/2023-9-4-algae-bloom-lough-neagh
 ## Data Used
 ### Sentinel-2 Infographic
+https://sentinels.copernicus.eu/-/collection-1-level-2a
 ### Indices Calculated
 ### IRIS Segmentation
 ## Supervised Machine Learning Methodos
