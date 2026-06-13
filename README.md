@@ -99,13 +99,54 @@ In conventional decision trees, the best feature is chosen to split data at ever
 - **Importance Scoring**: They provide an importance score for each feature, aiding in feature selection or interpretability.
 
 #### Implementation in Python (Using Scikit-learn)
+### Vision Transformers (ViT)
 
-## Unsupervised K-Means Clustering
+Vision Transformers (ViTs) are a recent breakthrough in the field of deep learning for image processing. They depart from the traditional convolutional neural network (CNN) approach and apply transformers, which were originally designed for natural language processing tasks, to image classification.
+
+#### Theoretical Foundations
+
+#### 1. **Tokenisation of Images**
+
+Instead of processing images using convolutions, ViTs divide the image into fixed-size patches, linearly embed them, and then process the resulting sequence of vectors (or tokens) using a transformer.{cite}`dosovitskiy2020image`
+
+#### 2. **Position Embeddings**
+
+Since the original transformer doesn't have a notion of the relative positions of tokens, positional embeddings are added to the patch embeddings to retain the positional information.{cite}`dosovitskiy2020image`
+
+#### 3. **Transformer Architecture**
+
+The core of ViT is the transformer architecture, which consists of multiple layers of multi-head self-attention mechanisms and feed-forward neural networks.{cite}`dosovitskiy2020image`
+
+#### 4. **Classification Head**
+
+After processing through the transformer layers, the embedding of the first token (often referred to as the 'CLS' token) is used to classify the image.{cite}`dosovitskiy2020image`
+
+#### Advantages of ViT
+
+- **Model Transferability**: ViTs pre-trained on large datasets can be fine-tuned on smaller datasets, achieving high performance even when the available labeled data is limited.
+
+- **Scalability**: ViTs are more data-hungry compared to CNNs. However, their performance continues to improve as the model size and the amount of data increase, often surpassing other architectures.
+
+- **Flexibility**: The transformer architecture isn't specialized for grid-like data (like images), making ViTs potentially more flexible for varied input data types.
+
+#### Challenges
+
+- **Computational Demand**: ViTs can be computationally intensive, especially when dealing with large images or when the model has many layers.
+
+- **Data Requirement**: To achieve optimal performance, ViTs often require more training data compared to CNNs.
+
+#### Implementation
+The implmentation of Vision Transformer is much more complicated than CNN and Random Forest as there is no built-in functions or layers in the library. However, the following code uses some existing functions like Muliti-head attention to build the transformer block. You don't need to know the exactly and detailed structure of ViT as it is not required in this course. Please follow the code below for example of implementation.
+## Unsupervised Machine Learning
+### K-Means Clustering
 ## Results
 ## Explainable AI
 ## Environmental Impact
+Code carbon is used to quantify the energy used
+### Algae Equivalent Metric
 ## Video Explanation of Code
 ## Infographic of Machine Learning Methods
+This infographic displays the different machine learning methods implemented (Supervised and Unsupervised), as well as the Explainable AI implementation.
 ## References
 European Space Agency (2023). S1 Products. [online] Copernicus.eu. Available at: https://sentiwiki.copernicus.eu/web/s1-products.
 ## Acknowledgements
