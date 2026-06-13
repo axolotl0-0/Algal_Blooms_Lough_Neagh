@@ -39,7 +39,6 @@ https://isprs-archives.copernicus.org/articles/XLVIII-M-6-2025/251/2025/isprs-ar
 ## Results
 ## Explainable AI
 ## Environmental Impact
-## Conclusion
 ## Video Explanation of Code
 ## Infographic of Machine Learning Methods
 ## References
