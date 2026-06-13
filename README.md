@@ -66,7 +66,40 @@ CNNs learn spatial hierarchies automatically. The initial layers might learn to 
 
 Below, you'll find a basic Convolutional Neural Network (CNN) structure implemented in TensorFlow. Treat this as a foundational blueprint for your subsequent implementations.
 ### Random Forests (RF)
-### Vision Transformer (ViT)
+
+Random Forest is a notable and significant part of machine learning and is commonly used for classification. It can also be used for regression, but its application in classification is more prevalent. Decision Trees are the core components of a Random Forest, so let's delve into the concepts of Decision Trees {cite}`breiman2001random,quinlan1986induction`.
+
+#### Theoretical Foundations
+
+#### 1. **Ensemble Learning**
+
+Ensemble methods employ multiple learning algorithms to achieve better predictive performance than any individual learning algorithm alone {cite}`dietterich2000ensemble`. The primary principle behind ensemble models is that several weak learners come together to form a strong learner.
+
+#### 2. **Decision Trees**
+
+Decision trees are central to a Random Forest. They split data into subsets based on feature values, recursively producing a decision tree {cite}`quinlan1986induction`.
+
+#### 3. **Bootstrap Aggregating (Bagging)**
+
+Random Forests leverage bagging, where multiple dataset subsets are created by drawing samples with replacement. A separate decision tree is built for each of these samples {cite}`breiman1996bagging`.
+
+#### 4. **Feature Randomness**
+
+In conventional decision trees, the best feature is chosen to split data at every node. However, Random Forests introduce randomness by selecting a random set of features, then choosing the best split from this subset, ensuring a diverse ensemble of trees.
+
+
+#### Advantages
+
+- **Generalisation**: By combining the predictions of multiple trees, Random Forests tend to generalize better and are less susceptible to overfitting on training data.
+  
+- **Parallel Processing**: Each decision tree can be built independently, allowing for parallel processing which speeds up the algorithm considerably for large datasets.
+
+- **Handling Missing Values**: Random Forests can handle missing values and still produce reasonable predictions.
+
+- **Importance Scoring**: They provide an importance score for each feature, aiding in feature selection or interpretability.
+
+#### Implementation in Python (Using Scikit-learn)
+
 ## Unsupervised K-Means Clustering
 ## Results
 ## Explainable AI
