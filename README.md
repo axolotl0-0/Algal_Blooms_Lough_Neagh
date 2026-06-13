@@ -33,6 +33,38 @@ https://isprs-archives.copernicus.org/articles/XLVIII-M-6-2025/251/2025/isprs-ar
 ### IRIS Segmentation
 ## Supervised Machine Learning Methods
 ### Convolutional Neural Networks (CNN)
+#### Introduction to CNNs
+
+Convolutional Neural Networks, commonly known as CNNs, are a class of deep neural networks specially designed to process data with grid-like topology, such as images {cite}`Goodfellow-et-al-2016,lecun2015deep`. Originating from the visual cortex's biological processes, CNNs are revolutionising the way we understand and interpret visual data.
+
+#### Why CNN for Image Data?
+
+Traditional neural networks, when used for images, suffer from two main issues:
+
+- **Too many parameters**: For a simple 256x256 colored image, an input layer would have \(256 * 256 * 3 = 196,608\) neurons, leading to an enormous number of parameters even in the first hidden layer.
+- **Loss of spatial information**: Flattening an image into a vector for traditional neural networks can lose the spatial hierarchies and patterns in the image, which are often crucial for understanding and interpreting visual data.
+
+CNNs address both issues by introducing convolutions.
+
+#### Key Components of CNN
+
+1. **Convolutional Layer** {cite}`lecun2015deep`: This is the core building block of a CNN. It slides a filter (smaller in size than the input data) over the input data (like an image) to produce a feature map or convolved feature. The primary purpose of a convolution is to extract features from the input data.
+2. **Pooling Layer**: Pooling layers are used to reduce the dimensions of the feature maps, thereby reducing the number of parameters and computation in the network. The most common type of pooling is max pooling.
+3. **Fully Connected Layer**: After several convolutional and pooling layers, the final classification is done using one or more fully connected layers. Neurons in a fully connected layer have connections to all activations in the previous layer, as seen in regular neural networks.
+4. **Activation Functions**: Non-linearity is introduced into the CNN using activation functions. The Rectified Linear Unit (ReLU) is the most commonly used activation function in CNNs.
+
+#### How CNNs Learn Spatial Hierarchies
+
+CNNs learn spatial hierarchies automatically. The initial layers might learn to detect edges, the next layers learn to detect shapes by combining edges, further layers might detect more complex structures. This ability to learn spatial hierarchies from raw data gives CNNs their power. It allows them to detect complex objects in images by combining simpler features from the earlier layers.
+
+#### Advantages of CNNs
+
+- **Parameter Sharing**: A feature detector (filter) that's useful in one part of the image can be useful in another part of the image {cite}`krizhevsky2012imagenet`.
+- **Sparsity of Connections**: In each layer, each output value depends only on a small number of input values, making the computation more efficient.
+
+#### Basic Code Implementation
+
+Below, you'll find a basic Convolutional Neural Network (CNN) structure implemented in TensorFlow. Treat this as a foundational blueprint for your subsequent implementations.
 ### Random Forests (RF)
 ### Vision Transformer (ViT)
 ## Unsupervised K-Means Clustering
