@@ -1,5 +1,8 @@
 # Comparing Machine Learning Methods for Algal Bloom Detection in Lough Neagh, Northern Ireland
 This project aims to use machine learning methods, focusing on K-means clustering to 
+### Project Motivation (Problem to be tackled)
+https://sluggerotoole.com/2026/03/16/the-saga-of-lough-neaghs-deterioration-takes-another-toxic-turn/
+https://user.eumetsat.int/resources/case-studies/loch-neagh-algal-bloom
 ## Introduction
 ### Geographical Context
 Lough Neagh is situated in 
@@ -7,9 +10,6 @@ https://www.daera-ni.gov.uk/protected-areas/lough-neagh-assi
 https://www.daera-ni.gov.uk/articles/action-being-taken-address-issues-lough-neagh
 ### Biological Context
 https://isprs-archives.copernicus.org/articles/XLVIII-M-6-2025/251/2025/isprs-archives-XLVIII-M-6-2025-251-2025.pdf
-### Project Motivation (Problem to be tackled)
-https://sluggerotoole.com/2026/03/16/the-saga-of-lough-neaghs-deterioration-takes-another-toxic-turn/
-https://user.eumetsat.int/resources/case-studies/loch-neagh-algal-bloom
 ### Previous Algal Bloom Events
 https://www.niassembly.gov.uk/globalassets/documents/raise/topical-digests/td_lough-neagh_td06.pdf
 https://www.belfasttelegraph.co.uk/news/environment/blue-green-algae-is-back-on-lough-neagh-after-warm-and-wet-weather/a/112203647.html
