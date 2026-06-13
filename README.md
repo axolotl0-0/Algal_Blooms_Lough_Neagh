@@ -3,6 +3,12 @@ This project aims to use machine learning methods, focusing on K-means clusterin
 ### Project Motivation (Problem to be tackled)
 https://sluggerotoole.com/2026/03/16/the-saga-of-lough-neaghs-deterioration-takes-another-toxic-turn/
 https://user.eumetsat.int/resources/case-studies/loch-neagh-algal-bloom
+## Notebook Layout
+* **PART 1:** Fetching Data using Sentinel-2 + Indices Calculation
+* **PART 2**: Algae Classification using Supervised Learning Methods
+* **PART 3:** Image Rollout using Supervised Learning Methods
+* **PART 4:** Unsupervised Learning (K-Means Clustering) **+ Results**
+* **PART 5:** Explainable AI (SHAP) + Environmental Costs
 ## Introduction
 ### Geographical Context
 Lough Neagh is situated in 
@@ -25,7 +31,10 @@ https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/
 https://www.sciencedirect.com/science/article/pii/S2468312425000082
 https://isprs-archives.copernicus.org/articles/XLVIII-M-6-2025/251/2025/isprs-archives-XLVIII-M-6-2025-251-2025.pdf
 ### IRIS Segmentation
-## Supervised Machine Learning Methodos
+## Supervised Machine Learning Methods
+### Convolutional Neural Networks (CNN)
+### Random Forests (RF)
+### Vision Transformer (ViT)
 ## Unsupervised K-Means Clustering
 ## Results
 ## Explainable AI
