@@ -1,4 +1,4 @@
-# Algal Blooms Lough Neagh
+# Comparing Machine Learning Methods for Algal Bloom Detection in Lough Neagh, Northern Ireland
 This project aims to use machine learning methods, focusing on K-means clustering to 
 ## Introduction
 ### Geographical Context
