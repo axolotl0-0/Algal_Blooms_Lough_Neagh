@@ -145,7 +145,7 @@ Code carbon is used to quantify the energy used
 ### Algae Equivalent Metric
 ## Video Explanation of Code
 ## Infographic of Machine Learning Methods
-This infographic displays the different machine learning methods implemented (Supervised and Unsupervised), as well as the Explainable AI implementation.
+This infographic displays the different supervised and unsupervised machine learning methods implemented.
 ## References
 European Space Agency (2023). S1 Products. [online] Copernicus.eu. Available at: https://sentiwiki.copernicus.eu/web/s1-products.
 ## Acknowledgements
