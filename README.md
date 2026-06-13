@@ -140,6 +140,7 @@ After processing through the transformer layers, the embedding of the first toke
 #### Implementation
 The implmentation of Vision Transformer is much more complicated than CNN and Random Forest as there is no built-in functions or layers in the library. However, the following code uses some existing functions like Muliti-head attention to build the transformer block. You don't need to know the exactly and detailed structure of ViT as it is not required in this course. Please follow the code below for example of implementation.
 ## Results
+### Limitations
 ## Environmental Impact
 Code carbon is used to quantify the energy used
 ### Algae Equivalent Metric
