@@ -31,6 +31,8 @@ https://docs.sentinel-hub.com/api/latest/data/sentinel-2-l2a/
 https://www.sciencedirect.com/science/article/pii/S2468312425000082
 https://isprs-archives.copernicus.org/articles/XLVIII-M-6-2025/251/2025/isprs-archives-XLVIII-M-6-2025-251-2025.pdf
 ### IRIS Segmentation
+## Unsupervised Machine Learning
+### K-Means Clustering
 ## Supervised Machine Learning Methods
 ### Convolutional Neural Networks (CNN)
 #### Introduction to CNNs
@@ -137,10 +139,7 @@ After processing through the transformer layers, the embedding of the first toke
 
 #### Implementation
 The implmentation of Vision Transformer is much more complicated than CNN and Random Forest as there is no built-in functions or layers in the library. However, the following code uses some existing functions like Muliti-head attention to build the transformer block. You don't need to know the exactly and detailed structure of ViT as it is not required in this course. Please follow the code below for example of implementation.
-## Unsupervised Machine Learning
-### K-Means Clustering
 ## Results
-## Explainable AI
 ## Environmental Impact
 Code carbon is used to quantify the energy used
 ### Algae Equivalent Metric
