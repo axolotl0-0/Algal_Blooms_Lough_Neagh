@@ -149,6 +149,7 @@ Code carbon is used to quantify the energy used
 This infographic displays the different supervised and unsupervised machine learning methods implemented.
 ## References
 European Space Agency (2023). S1 Products. [online] Copernicus.eu. Available at: https://sentiwiki.copernicus.eu/web/s1-products.
+CIWEM (The Chartered Institution of Water and Environmental Management) (2025). Lough Neagh’s freshwater emergency - CIWEM. [online] CIWEM. Available at: https://www.ciwem.org/news/lough-neagh-freshwater-emergency.
 ## Acknowledgements
 This project was created as part of the final assignment for the module GEOL0069 AI for Earth Observations (AI4EO) at UCL, and incorprates python notebooks created by the module lead Michele Tasamados and teaching assistant Weibin Chen.
 ## Contact
