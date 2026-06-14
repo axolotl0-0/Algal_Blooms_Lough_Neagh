@@ -148,7 +148,7 @@ Code carbon is used to quantify the energy used
 ## Infographic of Machine Learning Methods
 This infographic displays the different supervised and unsupervised machine learning methods implemented.
 ## References
-European Space Agency (2023). S1 Products. [online] Copernicus.eu. Available at: https://sentiwiki.copernicus.eu/web/s1-products.
+European Space Agency (ESA) . S2 Products. [online] sentiwiki.copernicus.eu. Available at: https://sentiwiki.copernicus.eu/web/s2-products.
 
 CIWEM (The Chartered Institution of Water and Environmental Management) (2025). Lough Neagh’s freshwater emergency - CIWEM. [online] CIWEM. Available at: https://www.ciwem.org/news/lough-neagh-freshwater-emergency.
 ## Acknowledgements
