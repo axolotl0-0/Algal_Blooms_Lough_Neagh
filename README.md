@@ -33,6 +33,7 @@ https://isprs-archives.copernicus.org/articles/XLVIII-M-6-2025/251/2025/isprs-ar
 ### IRIS Segmentation
 ## Unsupervised Machine Learning
 ### K-Means Clustering
+### Mean Feature Clusters
 ## Supervised Machine Learning Methods
 ### Convolutional Neural Networks (CNN)
 ### Random Forests (RF)
